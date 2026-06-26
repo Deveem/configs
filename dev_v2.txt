@@ -1,9 +1,9 @@
 {
   "code": "d*v",
-  "created": "26.06.2026 10:34:27",
-  "encrypted_data": "vZ4IH4P0cQYSbLNVhZKVEg==",
-  "salt": "mdsiray2ifQWAz6q/J7enA==",
-  "iv": "WaYylaqf5kotIODgCT1WWw==",
+  "created": "26.06.2026 10:38:08",
+  "encrypted_data": "PpbY/dzc2zu7M0X7ipWnyQ==",
+  "salt": "RHkFdnBC5GsXD5p/rADbng==",
+  "iv": "IrDLQUbMuwheHU7fKRdkLg==",
   "algorithm": "AES-256-CBC",
   "kdf": "PBKDF2",
   "iterations": 100000,
