@@ -20,6 +20,14 @@
       "id": "free-sweden",
       "configs": [
         {
+          "config": "vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.48.224:22955?security=reality&encryption=none&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&fp=chrome&type=grpc&serviceName=grpc&sni=one-piece.com&sid=6ba85179e30d4fc2#%F0%9F%87%A6%F0%9F%87%B9%20Austria%2C%20Vienna%20%5BBL%5D",
+          "published": true
+        },
+        {
+          "config": "vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.48.224:443?security=reality&encryption=none&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&fp=chrome&type=grpc&serviceName=grpc&sni=one-piece.com&sid=6ba85179e30d4fc2#%F0%9F%87%A6%F0%9F%87%B9%20Austria%2C%20Vienna%20%5BBL%5D",
+          "published": true
+        },
+        {
           "config": "vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.48.224:8443?security=reality&encryption=none&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&fp=chrome&type=grpc&serviceName=grpc&sni=one-piece.com&sid=6ba85179e30d4fc2#%F0%9F%87%A6%F0%9F%87%B9%20Austria%2C%20Vienna%20%5BBL%5D",
           "published": true
         }
@@ -51,30 +59,30 @@
               "public_key": "ju7e5MX_Qi9gHF8NU4THqrRP0OCL_WYjAeePZ5IoUBw",
               "security": "reality",
               "short_ids": [
-                "37da2cc0d8e7d4",
-                "fb00007522",
-                "0acc5a424a",
-                "a21c2584c3517902",
-                "9f53aeed6a1b",
-                "6d846785",
                 "90c6d17019c85524",
-                "96c424fe6c",
-                "edc3914c7d7a",
-                "5b09f65104a4"
+                "7e5aa016",
+                "c3905aed15",
+                "a21c2584c3517902",
+                "fb00007522",
+                "2bcc569d93",
+                "8e6e9ef554bcc35f",
+                "dca58e1b2cc1a7c7",
+                "2899dd6ec800f1f0",
+                "9f53aeed6a1b"
               ],
               "type": "xhttp",
               "updated": "08-07-2026 06:00:21",
               "uuids": [
-                "35512be1-8442-41df-8c9c-01b06f6725d1",
-                "16be9b1a-266f-48e2-9853-26c8f49c7650",
-                "4810184f-2b8f-4c21-979e-09652b58dce7",
-                "a763c68f-d374-4e5b-bf86-cfe80c973517",
-                "3acda150-3f28-42e0-9b86-2642d26ef670",
-                "c6ca9f88-a1ba-43dd-b896-0a80e5993ddb",
+                "bcdd7a8f-b974-4e06-b371-8bd5dacd0670",
                 "df7d3076-2be7-474e-accc-ec2f0848a25b",
-                "9b4b54d3-f29b-4f29-a438-34e0ed15fd7c",
+                "35512be1-8442-41df-8c9c-01b06f6725d1",
                 "15b81c2a-315b-42c5-a12e-382549d95b35",
-                "b760f0c8-b7ff-485a-a5f3-bd543ed3b1e7"
+                "bbf8a01f-b0ea-4110-8efd-549219eb8c88",
+                "6fe6c190-666a-48b3-b25f-ca85d49183a3",
+                "de561125-6772-4dd9-8798-5401022288dc",
+                "a22275f8-6c84-461a-bbd3-f629dabb88ab",
+                "16be9b1a-266f-48e2-9853-26c8f49c7650",
+                "4810184f-2b8f-4c21-979e-09652b58dce7"
               ]
             },
             {
@@ -84,30 +92,30 @@
               "public_key": "F5VJ2c5-FXqGFGLaQvCJaoM-NwYcZ3YeK2J2SY6NxGg",
               "security": "reality",
               "short_ids": [
-                "6076d23c2a8805",
-                "2097e25e57d4b9b8",
-                "672229b5",
-                "4ffd655f",
-                "5ef5458a9c3bd105",
-                "df35a954aa7b0c37",
+                "4556e476",
                 "385c87774c65",
-                "46135f1371",
-                "fb2c7c39a2ead4",
-                "eb2d6c5d30"
+                "673555efda",
+                "d0f9fef8a2a7",
+                "eb2d6c5d30",
+                "52fa6539",
+                "60ca7915d51535fc",
+                "8ab2e2d4",
+                "2097e25e57d4b9b8",
+                "90d2a08c"
               ],
               "type": "xhttp",
               "updated": "08-07-2026 06:00:21",
               "uuids": [
+                "bf8afa5c-7e05-4641-a775-f7ad9a2f70b7",
+                "5f64ffda-38b6-4338-8a01-5daf60647766",
+                "ef4cccfd-9ccc-4138-a6c5-635258ce47d4",
                 "9447911d-74a2-4951-a4a0-c1b64ef4cbb4",
-                "9d5bf060-da86-4d49-9a3b-27a9b06d367d",
-                "71b33091-109e-42fb-b243-701749dab338",
-                "9d3e7a96-822b-4409-9456-751afccd2bda",
-                "56a68d78-9acd-456f-bb4a-c35fdb20247a",
+                "883b138b-bc1d-4b6d-9d23-a4888e048cdc",
+                "90651684-b9e1-4051-b657-711206485def",
+                "371467a3-8ef2-4b12-88df-f1ff509c96c1",
                 "364b3ab5-85cf-4def-97a1-6cb15cbd1ce2",
-                "2db6c15a-3cf5-4908-bcd0-8dfe93284afb",
-                "56c2a008-d643-42b5-a508-fff94f21c223",
                 "a5a27d53-3d6c-4b4f-bd60-f6803da41c6d",
-                "4db5a495-f973-480e-90d7-60e66ea27497"
+                "8674aecf-e038-4082-8505-d9daedd545ef"
               ]
             }
           ],
@@ -116,18 +124,18 @@
             "45.86.245.9"
           ],
           "snis": [
-            "api-maps.yandex.ru",
-            "disk.yandex.ru",
             "apple.com",
-            "cdn.jsdelivr.net",
-            "images.apple.com"
+            "zgtwylnhh.cc.cd",
+            "tradingview.com",
+            "pingless.com",
+            "developer.apple.com"
           ],
           "spiderxs": [
             "/products/list",
-            "/products/cloud",
-            "/search?q=security",
-            "/api/v2/session",
-            "/docs/getting-started"
+            "/search?q=update",
+            "/help/faq",
+            "/products/mobile",
+            "/support/contact"
           ],
           "updated": "08-07-2026 06:00:21",
           "version": "1.6"
@@ -151,30 +159,30 @@
               "public_key": "Z-bei_CBfgZJdPxIxlmXu-wb2Zsh_DCcCq--EPZ-8hM",
               "security": "reality",
               "short_ids": [
-                "eb58403af3e9",
-                "a245719d",
-                "53b30e5ac4a7",
-                "6b7e553170f3",
-                "2176183763208d",
-                "e716fd47",
+                "bda1f678bb36bb",
                 "7464bdfa92f0",
-                "db74015f",
-                "44173cff13",
-                "83b5d3dc6401"
+                "eb58403af3e9",
+                "8f7cf6b9ef70",
+                "2176183763208d",
+                "806e3c5c",
+                "6484ced36a77",
+                "b45fd12a",
+                "f84455b8a773",
+                "b7e60ddfd5"
               ],
               "type": "xhttp",
               "updated": "08-07-2026 06:00:11",
               "uuids": [
-                "f8576365-da1b-41fb-918b-73d8076bb817",
-                "8aca49dd-395c-45f9-94d5-bdeb89df36f8",
-                "f7f1f072-40d3-482c-9e9f-b9a4c4e33fe6",
-                "17268466-aa4f-40d1-b5f4-4b1922b50250",
-                "e0f1c418-518e-488f-973b-4cc1679313f9",
-                "84348874-c9ff-47dc-8116-6fa0355f3ecd",
-                "f8fdbfad-5b45-4001-9ab8-ff57a2bc2480",
-                "7c9256d5-f31f-4740-8ab5-04644c824964",
+                "3e81b9e8-a1f6-479f-a7b4-99b6c7e19603",
+                "18505b84-55d6-44bc-9ac9-808ce7425366",
+                "caab5436-238a-4df4-8050-086908a39b2e",
+                "2fca704c-f001-4105-93da-b14c5b153188",
+                "0b903816-0c89-4ad9-810b-a82b3e09bce3",
+                "59d5c2c2-cedb-4986-a431-daafa24de1d0",
+                "327fa14c-96e4-43ef-9904-8f36d64e213e",
+                "7ef85987-2a14-435e-b572-e05fc5a2f676",
                 "ff06b31a-3f12-43e6-9443-bd7dea144ca9",
-                "7ef85987-2a14-435e-b572-e05fc5a2f676"
+                "5dfb6250-8384-464c-a08d-a718d2e7bdd1"
               ]
             },
             {
@@ -184,30 +192,30 @@
               "public_key": "zcQvjg70H-_kfjlfIe5KAVye0V-uP1rylEz_KUDiWnA",
               "security": "reality",
               "short_ids": [
-                "074eefc2054a89",
-                "62b7d20c7634aa",
-                "002eb87a",
-                "a36fbe49",
-                "a0bcd43d",
-                "d6c64513",
-                "1b403e37",
-                "5480a0f44046a18e",
+                "91c3a4bd9531",
+                "790b41702809fea4",
+                "8896c7fada36e3",
                 "afa5e148",
-                "32d802dc2a0970"
+                "074eefc2054a89",
+                "002eb87a",
+                "2fdebb66e0c096",
+                "7121a3fa",
+                "62b7d20c7634aa",
+                "61fd7e468d"
               ],
               "type": "xhttp",
               "updated": "08-07-2026 06:00:11",
               "uuids": [
-                "4d29b7d9-ad91-4442-af48-6d64a3be66ea",
-                "f26ad5c2-ed8d-4747-a160-94e0ad65f364",
-                "d2e96603-00a7-4aa6-bc81-e9e944e99214",
-                "4018e245-4ea8-4c69-b09d-53650bfd727c",
-                "44a93680-c5b1-40ac-b5a8-6a3c21b28ffe",
-                "99f48519-a9f4-4810-8f84-ae9be93ffcf0",
-                "b6e1fe21-bc3d-4a71-be3e-c5fd5db10825",
-                "2663b808-7dc1-48b4-8782-54e8f1555f00",
+                "dc1803ce-8a5c-4a42-a9b6-632cf1fc11c6",
                 "ed709929-6da5-4e78-8a01-e7eaf5b66f13",
-                "140a3ece-cb15-4881-a883-41b6748c7c2c"
+                "93681adb-8bb8-46f8-9e96-e5f79a15dc69",
+                "51498957-cffe-40e0-93b5-fb10859392c8",
+                "7939997c-5db6-4a81-a928-7cbe9c3d2a62",
+                "56ae4fd6-5832-4c37-9572-e3cf3e9a75d9",
+                "94985dd2-bd3e-4b95-83a4-eb4cc5dd9e33",
+                "0b563e6e-b14b-4457-902a-c5ac20175894",
+                "a4dfe8bc-f244-4763-ab0f-51a1395e3ff4",
+                "b6e1fe21-bc3d-4a71-be3e-c5fd5db10825"
               ]
             }
           ],
@@ -215,18 +223,18 @@
             "45.131.215.14"
           ],
           "snis": [
-            "botapi.max.ru",
-            "cdn.jsdelivr.net",
-            "api-maps.yandex.ru",
-            "ozone.ru",
-            "maple.mafoolehamammansouri.com"
+            "maple.mafoolehamammansouri.com",
+            "static.cloudflareinsights.com",
+            "store.steampowered.com",
+            "cloudflarestatus.com",
+            "sun6-21.userapi.com"
           ],
           "spiderxs": [
-            "/blog/tech/ai",
             "/search?q=cloud",
-            "/search?q=update",
-            "/products/cloud",
-            "/feed/recommended"
+            "/docs/getting-started",
+            "/search?q=security",
+            "/news/latest",
+            "/search?q=mobile"
           ],
           "updated": "08-07-2026 06:00:11",
           "version": "1.6"
@@ -250,30 +258,30 @@
               "public_key": "llO0oYUqwTK2WuNlRnsu6-8lqocpkzvADUPlGCyyURc",
               "security": "reality",
               "short_ids": [
-                "1174ab157ad92991",
-                "3dfaf87b8bd075a2",
-                "e90c1364a5",
-                "a38f5218",
-                "f2045579",
-                "462b85152e",
+                "71e9094caf",
                 "8868406b7c",
-                "8f6d1f318d",
-                "0d5c70eea9c7",
-                "47e00efdeb"
+                "3200a654e1b05ca4",
+                "b6e61603f9",
+                "e90c1364a5",
+                "ff19dc0d628012",
+                "8a709c1399ab",
+                "1174ab157ad92991",
+                "e2375f0c43",
+                "cf0f78cd1ac2"
               ],
               "type": "xhttp",
               "updated": "08-07-2026 06:00:02",
               "uuids": [
-                "4b3be6cc-0c4c-40e3-9f5b-8c5664f0de31",
-                "91f137f1-f0ae-4928-b244-c7f837cfdad0",
-                "f3a71854-c360-4864-b498-4c40cf0d264d",
-                "6a3040f3-c1d7-4d79-b47a-1b80434ec608",
-                "b02bb0ad-ab9e-472d-97b4-a9c35bc1184e",
+                "6a00b1a9-6931-4b9f-91c0-e9142c0a25b4",
+                "77c40e8e-e622-4f56-ac57-c8d48a918148",
+                "7b8e8fc2-044c-4902-9298-5f9e8be51724",
+                "7b5f2991-0496-43a1-a297-ab6e2aac23a5",
+                "1a7d1625-0e9f-44cd-b67d-d9874da1a882",
                 "0bb98b54-50ff-46fc-9018-35e2577c6803",
-                "9701e41b-dcc3-4ffd-98de-637459ac2642",
-                "8c440808-dd6e-45d1-a709-0dead66b820c",
-                "5a9c8b97-a520-4a5e-b81b-60ba02ed63f0",
-                "bdc4b243-9f62-4968-a977-2ab559b54788"
+                "c0c069ed-dbba-427a-a02e-cc1ada7c31f5",
+                "39883b5b-5f46-46be-bb2c-d28f48837944",
+                "d7ea888b-3f9e-4042-b6f7-7c87c2c222a2",
+                "cb76d60f-e344-4f37-8aa8-e1ea987a57c1"
               ]
             },
             {
@@ -283,30 +291,30 @@
               "public_key": "BnszlMg7renpVstMLFDImUpSF6qjlDkOkKyYNg7MvE8",
               "security": "reality",
               "short_ids": [
-                "4395939471fbad",
-                "b97b11d637",
-                "153fc70a3c5164",
-                "c4f3232f5fafe7",
-                "78ba58e867",
-                "0ddef589",
-                "3d0695dc",
-                "c4f8bd88d7",
                 "8444898c563de5",
-                "cfeb3cfb653b8665"
+                "cfeb3cfb653b8665",
+                "b97b11d637",
+                "c4f8bd88d7",
+                "3a26251c16ec05d5",
+                "4395939471fbad",
+                "a0c051e4f7",
+                "3954b4e6a0",
+                "2469db93",
+                "09a242f3"
               ],
               "type": "xhttp",
               "updated": "08-07-2026 06:00:02",
               "uuids": [
-                "2b8d5ab4-8b47-4605-a293-5523a287e0a5",
-                "6efdbcdb-c8b3-4d28-a9b2-8eb332cd729d",
-                "617c849d-7cc9-4808-8d4f-009babf3223b",
-                "36cde1e7-4376-40a2-b17e-157b29f8e822",
-                "9e5d4eb3-9653-441e-98b0-296da02f9232",
-                "0320ac39-f3bc-43e1-b344-25d36528703b",
+                "7693ee50-be8d-42fc-a508-2de26b08cb21",
                 "e42f7ecf-e411-48b3-9784-7fbb7bfb37a2",
-                "7df0a59f-78fb-4604-8a7a-612c9795e282",
-                "bf58c96d-db92-469a-a0b4-37638fbbb323",
-                "f5d26d64-49b5-4014-a13d-37ad7c086cc4"
+                "51ccc336-e089-4993-8b1b-e2a8e234881c",
+                "f34e6ace-5ed0-49f4-bc56-4ef09a91011a",
+                "054ceaf9-a69d-4ca4-aa6b-f8c8f265805b",
+                "4f16c24e-5211-489a-a435-188db06d96bf",
+                "0320ac39-f3bc-43e1-b344-25d36528703b",
+                "765b7c6e-f538-497f-8140-3437cc9b37f6",
+                "2b8d5ab4-8b47-4605-a293-5523a287e0a5",
+                "7a40ce40-03af-462c-bbed-87d591142e14"
               ]
             }
           ],
@@ -314,18 +322,18 @@
             "45.131.215.15"
           ],
           "snis": [
-            "api-maps.yandex.ru",
-            "yahoo.com",
-            "apple.com",
-            "sun6-21.userapi.com",
-            "max.ru"
+            "alfabank.ru",
+            "store.steampowered.com",
+            "tradingview.com",
+            "developer.apple.com",
+            "static.cloudflareinsights.com"
           ],
           "spiderxs": [
-            "/search?q=ai",
-            "/blog/tech/ai",
-            "/search?q=latest",
-            "/help/privacy",
-            "/docs/getting-started"
+            "/api/v1/status",
+            "/blog/security",
+            "/products/enterprise",
+            "/shop/category/mobile",
+            "/feed/recommended"
           ],
           "updated": "08-07-2026 06:00:02",
           "version": "1.6"
@@ -349,30 +357,30 @@
               "public_key": "SNTlAsY-3tUUYgFmieTjmF3s0VocRBmWfAnMqPA_PzE",
               "security": "reality",
               "short_ids": [
-                "050e1c19f5",
-                "2403431a",
-                "eb0eb532",
                 "8f372c11bd9d",
-                "b52da993730b6f",
-                "41d7997a",
-                "b7d1bf9a6d",
+                "72b6164039b458",
+                "be2374a2a9a2a6",
+                "390716c5e2af",
+                "665bdd19d5852f",
                 "4e9715d3fa6d",
-                "525dc4c813",
-                "2d2b8a5100"
+                "8e5c243ed17e",
+                "eb0eb532",
+                "2d2b8a5100",
+                "ae9392c73b"
               ],
               "type": "xhttp",
               "updated": "08-07-2026 06:00:02",
               "uuids": [
-                "e943e32b-9fc2-4faf-91ba-8064d107ee09",
-                "8a47dbbb-40ea-4c56-b097-cd115f1b622a",
                 "b533e72c-0a9c-431d-a3f7-9f26a0aa1f3b",
-                "cbc348b2-74aa-4233-a1b0-b0e45f28798b",
+                "06512713-b34f-4b6e-bcc8-7cd33e6997b0",
+                "d2d2a54b-0bbc-45fe-9de8-931aa5d091c4",
                 "31a12514-fe47-4dae-ad2f-5e1130a93e5e",
-                "d86c8111-d312-4278-9408-0ebbc54a075d",
-                "7ac75450-68cc-4270-9d61-6c185dd293ab",
+                "e943e32b-9fc2-4faf-91ba-8064d107ee09",
+                "bb5332a0-4cb1-4e69-8b38-f969468d21a4",
+                "32b0a3f4-365c-475f-a71f-2cb1fa5a7938",
+                "782e9614-e4e8-43db-b767-f5833a1cd002",
                 "e8e07f15-d644-4407-adf6-399521ad07b2",
-                "d1d266ae-db61-4f63-aee1-ed7ad6dc1175",
-                "46473c5a-6e69-419f-9c1b-de49bf34b147"
+                "30cd794b-1d27-4c5a-aa3b-2347102efebb"
               ]
             },
             {
@@ -382,30 +390,30 @@
               "public_key": "Jn0YwXbl8Wj44X-UovY4mhEQdjijlzXSCKX6-lOHVCQ",
               "security": "reality",
               "short_ids": [
-                "88ba32a07957c495",
-                "9943cb7b9519de4f",
-                "aa3a89f7",
-                "a860f8d54946d0df",
-                "b08c2d088618",
-                "ea0ee508",
-                "275cbc27",
+                "daf44fa3cca680",
+                "8642c05e02d5",
                 "5de501f8575b5259",
-                "24db65d783918b6a",
-                "dc340ba36d5517c4"
+                "02b9a242",
+                "943443daf9dfd98e",
+                "0087152e19",
+                "48d3261f62",
+                "975da82c552df0",
+                "275cbc27",
+                "879181da3951"
               ],
               "type": "xhttp",
               "updated": "08-07-2026 06:00:02",
               "uuids": [
-                "1a403b57-a629-4e15-b485-90e6d079d548",
-                "bd6b45d7-f047-48ce-8319-2e0fac04a8d3",
-                "6c3b74f2-e061-493f-a2c2-a01ed1a25233",
+                "0c5bc455-a218-4d83-abd9-b13bd6c5544e",
                 "0b54a7bc-bc86-4c0b-aa33-3abb0a8a93c2",
-                "9131dcc2-d0d8-4ee5-aabd-2767cfe4ad38",
-                "ca278482-1970-4259-aa0f-4ef5351218e5",
-                "97298615-5a44-45ab-92eb-02ee9b164d88",
-                "d4126da6-c9d7-4194-8156-d0ba1da3c700",
-                "ec61bb30-b0de-43f9-ae53-70e789348e04",
-                "4dc7b4d9-0165-4eee-8210-ade307720864"
+                "54304254-853f-4268-ae03-8436be4b0342",
+                "a6f3cc47-669e-4af7-b979-6ff3e4d11f56",
+                "0dbdae00-5ada-4182-9ed3-bba2856b98b1",
+                "df43aefe-0f59-42ed-9e1d-fe7d09807bc4",
+                "5102bac9-18e7-4100-ad6c-6f082d0ecfa6",
+                "3adf8a51-1998-4df3-9513-9c9909100fa1",
+                "4f97b5e6-0b17-4116-a206-24042cc90157",
+                "ca278482-1970-4259-aa0f-4ef5351218e5"
               ]
             }
           ],
@@ -413,18 +421,18 @@
             "45.131.215.16"
           ],
           "snis": [
-            "amd.com",
-            "ozone.ru",
-            "static.cloudflareinsights.com",
-            "download.max.ru",
-            "apple.com"
+            "cloudflarestatus.com",
+            "api-maps.yandex.ru",
+            "cdn.jsdelivr.net",
+            "max.ru",
+            "amd.com"
           ],
           "spiderxs": [
-            "/search?q=mobile",
-            "/search?q=network",
-            "/products/mobile",
-            "/products/cloud",
-            "/feed/recommended"
+            "/news/world",
+            "/images/banner.jpg",
+            "/auth/login",
+            "/products/enterprise",
+            "/help/account"
           ],
           "updated": "08-07-2026 06:00:02",
           "version": "1.6"
@@ -448,30 +456,30 @@
               "public_key": "jP-W8ImnAnBm2L-RocNEn3ps_AI3bSnQRTN-pHy72WU",
               "security": "reality",
               "short_ids": [
-                "18a9184335",
-                "28928bba11635c",
-                "74d9120b",
+                "b3f966723609",
+                "5f38034d7cbd42",
+                "8d68162ffe6605e1",
+                "c2d898b0f31d",
+                "1ca277771a4b",
                 "db4c505a54",
-                "ecc89be9",
-                "4c5d6724",
-                "8763c2dbd9ea",
-                "b311854931b42a",
-                "5c9b205d661f9a",
-                "6e1e9cce0b8852"
+                "28928bba11635c",
+                "cfc8660cd5a80b2e",
+                "6e1e9cce0b8852",
+                "30321715cdaab7"
               ],
               "type": "xhttp",
               "updated": "08-07-2026 06:00:21",
               "uuids": [
-                "75dca6ea-3e17-4c87-b67a-fadb36360c9f",
-                "784329a3-09bd-48e7-8da7-3fa95bab29ae",
-                "b216b644-6476-439e-8bf2-079b6b5e8d51",
-                "4ad94271-3a0a-45f2-b03b-6e5ccd297714",
+                "333c0253-3b7c-49e8-a7db-beeb9c5066d8",
+                "15484a78-3176-4a5b-8523-1b2337bddf97",
+                "8873bd9b-f7e2-4346-898d-2a3091a5e6f3",
                 "1542cde2-d3b1-440a-a801-3756c4f5161f",
-                "461b9af4-21ba-4274-815a-6b4b297444cc",
-                "fcac16d1-a396-4da2-bca9-7dfed8204ee0",
-                "b8bc037d-48bb-49f0-a9d5-23e0b0a79576",
-                "9d803092-3f30-4a73-b43a-3ec52cd2d19f",
-                "616359e0-77df-4524-97e0-1cac3a7eeeb9"
+                "d6b8c78e-6e13-42a4-8134-bf3c98f66036",
+                "4ad94271-3a0a-45f2-b03b-6e5ccd297714",
+                "6d280650-fdf1-4789-b11d-8f11c51f4129",
+                "84e6d34d-75ba-4b6d-9a62-2dff44308485",
+                "8c30c51c-6de0-4f94-bc32-812a9d34598f",
+                "990455ec-2cba-4a2c-be17-a24441a3313d"
               ]
             },
             {
@@ -481,30 +489,30 @@
               "public_key": "XsRhW-rNaWm2NtZbeMbx1LYbJAF0luASYB-js0rKzng",
               "security": "reality",
               "short_ids": [
-                "4c8dee8e8dc3",
-                "e8ae4be9",
-                "6c3a1e4ca0eb",
-                "843c4f83ec6b",
-                "1859ca66",
-                "19d0f3036692f827",
-                "8fb96631075d0cd3",
-                "8bffe81ffb36",
                 "e0eb545197",
-                "6572ee66"
+                "faaae870434598",
+                "6572ee66",
+                "1859ca66",
+                "843c4f83ec6b",
+                "aba03b4943",
+                "41a682792ca7be7b",
+                "8fb96631075d0cd3",
+                "ac664799",
+                "6c3a1e4ca0eb"
               ],
               "type": "xhttp",
               "updated": "08-07-2026 06:00:21",
               "uuids": [
-                "d993202c-21a0-419f-bc26-3ac46907e2e3",
-                "9efedbb8-f72e-4bf8-947f-33148b9f026e",
-                "5b935be5-d905-4214-a9b3-97ab48180759",
-                "ccd02e6c-5519-4690-8ea6-883dc46741ec",
-                "84de9a71-6192-4b50-b55c-6af72269d12d",
-                "ed5a1c8c-4fa6-41ed-b6cd-b0f19aecd6b8",
-                "cb5e4b0d-5dbf-4a27-821f-03d3a5729ecd",
-                "53c70e01-ae11-414d-8d4c-694797e85043",
+                "c1e546b7-0207-4339-948e-056254a7e2ac",
+                "a5617c95-7945-42a3-9672-a4ac2f7ee0dc",
+                "5087b49e-7bf9-48c0-b187-04766dcd94d7",
                 "ccdc8bcd-4d87-417f-bd12-3c92b8cf449d",
-                "d399afee-d05e-4fc5-9e00-ef5f2cde64c1"
+                "ed5a1c8c-4fa6-41ed-b6cd-b0f19aecd6b8",
+                "2ec186dd-55fe-4502-8450-16f128bcde1e",
+                "2f9540d6-e4bb-44a6-80da-d5c6285d3482",
+                "53c70e01-ae11-414d-8d4c-694797e85043",
+                "ff80804f-c0fb-4e95-b178-b9e5599b3ea2",
+                "db223171-de0a-46f8-a2aa-0518f972a2ad"
               ]
             }
           ],
@@ -512,18 +520,18 @@
             "45.131.215.17"
           ],
           "snis": [
-            "github.com",
-            "static.cloudflareinsights.com",
-            "botapi.max.ru",
-            "tradingview.com",
-            "ozone.ru"
+            "yahoo.com",
+            "developer.apple.com",
+            "store.steampowered.com",
+            "pingless.com",
+            "github.com"
           ],
           "spiderxs": [
-            "/products/list",
-            "/blog/security",
-            "/downloads/client",
-            "/help/privacy",
-            "/search?q=security"
+            "/auth/session",
+            "/auth/signup",
+            "/search?q=latest",
+            "/help/faq",
+            "/api/v1/status"
           ],
           "updated": "08-07-2026 06:00:21",
           "version": "1.6"
@@ -547,30 +555,30 @@
               "public_key": "Tflh5DwFsWdwBQCGwE6DVey5e0D3d10xAjNC-Wxv_24",
               "security": "reality",
               "short_ids": [
-                "53cb19377e",
-                "29e25724cf1705ca",
-                "daba50d6",
-                "74ff20dbea",
-                "14982ae97bf7",
-                "1e49d05f68dbd374",
-                "3dd470e2",
-                "39ce99c4",
-                "43a4c33203f5",
-                "b04f102a68182cfd"
+                "417440cb",
+                "be8a5fb5",
+                "803716c0886f6c67",
+                "2391b172",
+                "5ee8899034b09b25",
+                "91147987174c4e",
+                "95827211b2db",
+                "b1ea355068ba28",
+                "40228ff703eaf5f2",
+                "ccc0a19d"
               ],
               "type": "xhttp",
               "updated": "08-07-2026 06:00:11",
               "uuids": [
-                "b0cd7894-5ca9-4e91-96a9-2d88f41840a1",
-                "f42daac7-70ad-491c-ab2b-17c40e9b6561",
-                "bfce1c36-f997-4382-a944-90709dd71dff",
-                "1e683ef7-4762-47bc-895a-854c19f06eac",
-                "11a0444e-69f7-43c4-ace8-0d1458de51d9",
+                "98c53e1d-23a9-4fb1-b5b1-3137250ba0b9",
                 "2df9c317-ef13-42a9-982b-fce52677d3a5",
-                "34371ac1-85eb-4224-86ec-0bb6e800da34",
-                "07d02b94-45c9-4ea6-88b7-1a40848fde84",
-                "e8b5cc9d-7834-452f-89b3-e671bb440136",
-                "270942ca-d691-4ff6-aa2a-743262d769bf"
+                "10da6668-e1d6-409e-a6b7-94ae0ba1eeac",
+                "95208787-49da-41d5-a727-1e19376582fc",
+                "23429475-d069-4d75-8101-1af3a06ca031",
+                "ea6b1068-ef22-4667-b280-ccf2d893b44b",
+                "81cfcbb6-21e9-4455-97e7-c2bbd883ff0d",
+                "bfce1c36-f997-4382-a944-90709dd71dff",
+                "207fda9e-0c85-420a-a097-a1570ce52587",
+                "40c2d064-7015-49eb-804d-6863ee00fd20"
               ]
             },
             {
@@ -580,30 +588,30 @@
               "public_key": "qldXpI2HKhcOi2ETl2T4Ps6V00q7fNcO31bPptbU7yQ",
               "security": "reality",
               "short_ids": [
-                "54c08c941b973feb",
-                "72761e01",
-                "92f5277469e3",
-                "c4ece74ae9fffe",
-                "470db93fe914a4",
-                "df9151c09f8d44c8",
-                "f4ecf58b",
-                "2a85d07b1b",
                 "f32c4b1f",
-                "2df63386"
+                "92f5277469e3",
+                "282531d36d",
+                "c4ece74ae9fffe",
+                "7296676b4156c94a",
+                "b6e9bc091d4c56cc",
+                "2a85d07b1b",
+                "7ada53abc5c9",
+                "35ab28d8",
+                "d27fa8fd16f7c4e7"
               ],
               "type": "xhttp",
               "updated": "08-07-2026 06:00:11",
               "uuids": [
-                "8eaeb004-eb30-49f5-b0cb-af23e45393c0",
+                "61db3bc9-3a29-4301-b3fa-f7e717f00213",
+                "ae932006-56fa-4e91-8470-5ebc5dd19bcd",
+                "ff2abe86-da48-4a6a-baf8-7a905b688ca1",
+                "9e2ca90a-43e8-48a6-92cd-a57996fa6fff",
+                "b319710c-2069-4345-850a-edb650d0c0bc",
+                "1bc47b39-32ed-432e-bccb-6ed802ec1689",
+                "9236b252-a601-4cd3-9545-a26605df4e40",
                 "441889aa-b4a7-4701-ae48-4a128cdc2d59",
-                "897b4c74-6a0f-4156-98ca-b67c1303eccd",
-                "15e9af6f-3496-4fcc-906a-fbe95b601dd5",
-                "e73ff823-24c9-4e2c-bf91-b5a5eb86014f",
-                "7aa5196b-068d-4b83-8dc5-6ae1266ca575",
-                "3b4a8b66-a7bd-4236-b33c-540ef32e197e",
-                "316fe876-4f27-494a-9be6-a60d0f4c3b17",
-                "0b3d40cc-104b-43fa-bbee-9c057e7c813f",
-                "12f49a54-62ed-4dd6-be3e-647899a356fd"
+                "0a046cfb-fcd7-4d45-88f4-ae71825596cc",
+                "89cc7fa8-8a3b-48e7-97da-2b0604ed8dfa"
               ]
             }
           ],
@@ -611,18 +619,18 @@
             "45.131.215.18"
           ],
           "snis": [
-            "api-maps.yandex.ru",
-            "apple.com",
+            "botapi.max.ru",
             "cloudflarestatus.com",
-            "static.cloudflareinsights.com",
-            "store.steampowered.com"
+            "api-maps.yandex.ru",
+            "pingless.com",
+            "wildberries.ru"
           ],
           "spiderxs": [
+            "/help/faq",
+            "/search?q=update",
             "/products/list",
-            "/products/mobile",
-            "/help/privacy",
-            "/search?q=ai",
-            "/search?q=update"
+            "/auth/signup",
+            "/images/banner.jpg"
           ],
           "updated": "08-07-2026 06:00:11",
           "version": "1.6"
@@ -646,30 +654,30 @@
               "public_key": "haZGiJmi4eWCev42vtr7rOZlEHUpFMidJvaODlv6nGs",
               "security": "reality",
               "short_ids": [
-                "33dbbaff19d9",
-                "244da71d21c9d0",
-                "99f0e9f33c41eb",
-                "a76e49ed042aac04",
+                "5f5db39cad89",
+                "c90463bf",
                 "c19ce1f56358a9",
-                "66915d8023",
-                "d9060a54e68442d2",
-                "52a456d4265b63d3",
+                "f714e13893a957a0",
+                "66eae516a6e3c0",
+                "93eb1af65440a1b9",
+                "d24d453f221a899a",
                 "672468607f091b",
-                "a82f7a5ee450a28d"
+                "06f7e72db0db",
+                "eb2b311d6c"
               ],
               "type": "xhttp",
               "updated": "08-07-2026 06:00:02",
               "uuids": [
-                "0bc016d2-df7e-4591-8868-b9e7c0114667",
-                "d3c80060-3198-4eb4-9872-9b74e179f099",
-                "bf62976d-ea24-4a97-bef5-330a34eedb1f",
-                "ced98832-0f4a-425f-9ae0-0cb744f7f1b7",
-                "4ad1d7d1-b178-4896-87a0-70e7468dbc7e",
-                "e296c5ac-8e0d-49d3-85d3-17e51702622e",
-                "e1c8c271-53f3-41de-9435-6e331399ca75",
                 "f9ef3af1-4aa7-477f-b047-22dd43fc1a67",
-                "a7d03e5c-b80a-466d-82a6-4c36bef124cf",
-                "8af79b9c-24b4-462f-9efc-cdcbd2d5d66b"
+                "6d0454de-48ad-4794-a788-98cd21ef63a5",
+                "3a8efb69-5e90-44fd-ad03-eec13e13d11d",
+                "0f96f787-6551-4868-934b-8018cd0426df",
+                "90793772-deb2-490f-af5f-e86907746e6e",
+                "bf62976d-ea24-4a97-bef5-330a34eedb1f",
+                "86b83e33-7761-4ceb-b76e-74124e0ecbdf",
+                "1047a4f9-2f6c-4ee1-b316-6d5e27b05be2",
+                "eff571a3-a544-4435-828f-5a41d5a4fbf1",
+                "99e3d160-ad54-43d6-9f10-bfca4ce17a8f"
               ]
             },
             {
@@ -679,30 +687,30 @@
               "public_key": "hOCt7BGtf78-PPmX4PLW09Z40Y_yscSmQrwApgzIP1M",
               "security": "reality",
               "short_ids": [
-                "cbec770673f8ea09",
-                "0603edd630a2754d",
-                "2966d4cb8799fe",
-                "903cffff06ef8b8e",
-                "2c235a5ad3",
-                "702ba8698f",
-                "11e27533",
-                "530faaf83a923287",
-                "12b17a593c08",
-                "8d8a0bf2bf"
+                "92563d03adb4bf92",
+                "65e5500dc8",
+                "1a3977bdf7",
+                "dc3a2b4237085b",
+                "8b6026ee11a5",
+                "ec96186c",
+                "9829816ce0d9",
+                "308a847b8e",
+                "84c9df3498dd0b",
+                "c6954cdcd4eb"
               ],
               "type": "xhttp",
               "updated": "08-07-2026 06:00:02",
               "uuids": [
-                "dcb9fac5-ade0-4e37-8c20-d95fec89eead",
-                "d35bd970-35b3-4ba7-95cd-ccccb67b913d",
-                "898996a4-f4ca-4b14-b972-b5c737018025",
-                "0ec6bb1c-a8db-4f65-8a63-67ae1bd4cabf",
-                "3336ab50-8fae-4447-b8e3-73d70fac33a2",
-                "6f9eb75b-657b-4047-b8c3-221fa4315ad5",
-                "ce4389ff-c5e1-4145-9a04-37a5011d8ed3",
-                "4bef436d-152b-4b88-992d-6f87951308e5",
-                "c40fbb22-815c-482c-869e-4174468bd808",
-                "42c4894e-044e-4b72-8957-e8843733d905"
+                "ec7fefef-3f51-4bf4-b6bb-05cac17ef5aa",
+                "1b898aed-54c1-4628-b34a-bb87b5db075b",
+                "59427e04-123b-4b7b-b1e1-1677b1051a0e",
+                "c75f167b-fe21-4cae-88ba-a52795500482",
+                "23ac93ff-84aa-4e65-acd8-fb877bff8f84",
+                "c9af2f26-b97a-4a1d-aad3-e49074cd2959",
+                "750f8807-706f-4597-bf90-cb707e26d219",
+                "f0d92406-2034-43b7-b709-5dca9a0b25b0",
+                "60cd7b22-72ba-4897-a737-2742bca16652",
+                "3336ab50-8fae-4447-b8e3-73d70fac33a2"
               ]
             }
           ],
@@ -710,18 +718,18 @@
             "45.131.215.19"
           ],
           "snis": [
-            "ozone.ru",
-            "alfabank.ru",
-            "botapi.max.ru",
-            "apple.com",
-            "static.cloudflareinsights.com"
+            "zgtwylnhh.cc.cd",
+            "sun6-21.userapi.com",
+            "static.cloudflareinsights.com",
+            "store.steampowered.com",
+            "tradingview.com"
           ],
           "spiderxs": [
-            "/support/contact",
+            "/search?q=ai",
             "/news/latest",
             "/products/security",
-            "/search?q=mobile",
-            "/help/account"
+            "/blog/tech/ai",
+            "/products/mobile"
           ],
           "updated": "08-07-2026 06:00:02",
           "version": "1.6"
@@ -745,30 +753,30 @@
               "public_key": "zJfz5w2da414bDzy6T1ECvRTgupph0DhYlLvbvXrKlY",
               "security": "reality",
               "short_ids": [
-                "2b53f290f29b",
-                "7513d2467e",
-                "cb11911d27",
-                "d476d3fb",
-                "59191339",
-                "b66278591c52a0",
-                "c027cab65f02",
-                "563018b250a5d8",
+                "abc909e18b27",
                 "14acd7d5",
-                "410fc8403eb31c"
+                "9bafe16591",
+                "fec2ffc8be455eb2",
+                "27b548962b",
+                "7d0d63b533",
+                "1112da4fb1e5",
+                "d3ebf797904e",
+                "82b05d3dfb1a9d",
+                "f558a2e20321"
               ],
               "type": "xhttp",
               "updated": "08-07-2026 06:00:01",
               "uuids": [
-                "37b5cea2-e094-41f6-b391-873b0738be82",
-                "b03973e6-e9a1-4be9-996b-5a0d7493cf05",
-                "4f89da7d-b57e-4fb1-ae30-c0fe382dd743",
-                "5d62f2c7-f4a7-4095-9618-0fe2241477ad",
-                "4f5900fa-0553-45ab-8a98-e9507ab35acc",
+                "9b70c1e7-ae91-4fcb-b1dc-5fdfd5cc17d6",
+                "c4ca1f55-fa84-4043-8875-736de7fb0401",
+                "92c2a6db-2e62-4e66-bf73-f1cbe0403b41",
+                "22ff7d62-e524-4ea9-b08f-3da78c720a0e",
+                "ed6a965e-c89e-4e96-80e8-5c83f3a5e5f9",
+                "05d14845-19d9-4a02-a8ec-a3f6056002d0",
+                "1608ed99-4438-42d0-9a4f-c8bda839fa2c",
                 "0ba3b215-e5f3-4b40-b97d-ae68fba98b54",
-                "0ba4cbcb-b64a-4a94-b692-12ef03fad365",
-                "c4456078-8c09-4018-8a59-1d28930f927b",
-                "0e1af4f2-4fa2-49a5-ab32-13e7eadddc7b",
-                "16598f47-3f46-4162-9cec-95dc7fd1ea17"
+                "63eb931e-fba0-4148-b53a-5640f913fd61",
+                "22686d47-8814-458f-bb97-0529dbd548b5"
               ]
             },
             {
@@ -778,30 +786,30 @@
               "public_key": "AQn_It-24cUbhoES2_sBuwNOuHTDUPbf7llPrTNuBiM",
               "security": "reality",
               "short_ids": [
-                "64f15c023d",
+                "ec318efdea2dae",
+                "8fd041a8aa",
+                "0f061c6af7",
                 "1eb1bdb7",
-                "7b152ec7",
+                "e3c45867",
                 "183a6cb4d91b20",
-                "6d4496f798",
                 "dbc1d8107439",
-                "fc44809877c11cb2",
-                "12d8e7a6",
+                "674c90f8768ca12a",
                 "8dbdaec6",
-                "ec318efdea2dae"
+                "2e1a3be156"
               ],
               "type": "xhttp",
               "updated": "08-07-2026 06:00:01",
               "uuids": [
-                "762ebd9d-0d25-416d-abfe-f43808ff559a",
-                "6a1c0d95-ca0e-4d9e-80b0-8794c1e04214",
-                "314cad32-621b-426f-bffe-a9de02a89a1e",
-                "48475aaa-2bb3-456a-b727-c39bf22e69de",
-                "3f36a2f8-bdcf-4ec7-9e6a-d423f6b43702",
-                "3d071c50-6bfd-4f9a-8ef2-e95df368af85",
-                "2e6f2610-1177-49b5-be97-3348b1d5399e",
-                "9fbbdb12-d1a9-4e0a-ac1f-176a00c2fa8e",
                 "372d51f5-5b66-428d-af8d-db38668ee078",
-                "77148608-244f-476f-bfea-f5dd1b3253c0"
+                "8222da98-d307-4b87-9f23-6bef81ade57e",
+                "625476de-3bdd-4670-b07b-d45824fbe739",
+                "36b2fb07-d9e2-46ff-b681-80125c708de1",
+                "16012822-b9fb-4b1b-8939-13126148e63c",
+                "9bcc9336-4088-48e3-8887-b73135150d10",
+                "cd9caa13-c865-4cc4-9145-a7bcab337fb0",
+                "3d071c50-6bfd-4f9a-8ef2-e95df368af85",
+                "e331b54e-fa9b-44bd-820e-7b7a90b9e791",
+                "3a047e89-5a52-4b2a-aaa8-884d25758d38"
               ]
             }
           ],
@@ -809,18 +817,18 @@
             "45.131.215.21"
           ],
           "snis": [
-            "zgtwylnhh.cc.cd",
+            "tradingview.com",
             "github.com",
-            "download.max.ru",
-            "maple.mafoolehamammansouri.com",
-            "developer.apple.com"
+            "cdn.jsdelivr.net",
+            "wildberries.ru",
+            "alfabank.ru"
           ],
           "spiderxs": [
-            "/auth/refresh",
+            "/products/list",
+            "/search?q=update",
+            "/blog/security",
             "/support/contact",
-            "/api/v1/status",
-            "/products/mobile",
-            "/products/cloud"
+            "/auth/session"
           ],
           "updated": "08-07-2026 06:00:01",
           "version": "1.6"
@@ -844,30 +852,30 @@
               "public_key": "37j6SZbZPb-qaLPNQdquGbHJ-7DE0IT47zpu-32IEzc",
               "security": "reality",
               "short_ids": [
-                "6bf97050b782",
-                "9d216719",
-                "e95fae3140545103",
-                "ab6025221357",
+                "8511e8a9427c",
                 "26f1b7483c8859e8",
-                "3557a1d40dcf9c",
-                "33ade138",
-                "0e11c2d4b9",
-                "e81b6b3795c603",
-                "d313f4595d517e22"
+                "e75e901aa39b05",
+                "80190b71f2378620",
+                "d89dcacb7997d23f",
+                "9d216719",
+                "f6afe5c077b3e9b7",
+                "0f05fdb8cc87",
+                "f0436d635d485c",
+                "7a9621c79d13"
               ],
               "type": "xhttp",
               "updated": "08-07-2026 06:00:02",
               "uuids": [
-                "b7b9c543-f4c1-471b-90b3-04b4ee2a1395",
-                "41dfcfb5-1a20-4504-b134-34bd60c6409d",
-                "b5057dca-3463-43e5-9891-4e34c978d670",
-                "a44dac1a-169b-4591-bf5d-c7c66555a712",
-                "64ce3249-456b-4c14-a14c-281e9b119cc1",
-                "57af9ba6-54cd-45d7-a489-998ad22c02ea",
-                "057a92c5-e631-4684-923b-6a6829d0d2a7",
+                "ccd786c9-7c21-4bc9-8c8c-6c94af491a8f",
+                "c0bd25c4-0a36-45b9-a514-78b4ee67d6c4",
                 "c7ba813b-fadd-49d1-96b4-5cfc4b2803c3",
-                "ca018452-5d85-42f4-85ef-da1eeaee8d16",
-                "c7224dc5-0004-4c60-886b-af8a38318073"
+                "3164ab6f-9f3b-4ae8-a8fa-f3f568c750b8",
+                "1a9a5cd2-b098-4e3b-8736-bc124fbe0c8c",
+                "f5b7bb09-2629-45b7-9ab8-c466b2bab5ea",
+                "d3dcd11a-0532-4822-8195-7bf587c0d522",
+                "7e2d0002-4f35-4dcd-bf43-fde7aa19efa5",
+                "82cfe473-62a5-4325-aab3-c2a904964195",
+                "a948dd23-ddb3-4c1f-98f0-66846620368b"
               ]
             },
             {
@@ -878,29 +886,29 @@
               "security": "reality",
               "short_ids": [
                 "e0e09f85c11af3",
-                "0b1702c948",
-                "22772fda7dbd",
-                "526118d826",
-                "661a231f",
-                "8e1bcb587412",
-                "c7224cead732ccd5",
+                "ea9a4e8f",
+                "3d5fa26c",
                 "86eef04fa991",
-                "7386579a97774e",
-                "b52054a36f2db060"
+                "cbd3a40241da",
+                "a85a57606bebce",
+                "b323585a3ebc",
+                "34a3d3c8f229a9f1",
+                "74c2059f",
+                "f94bc64e7177"
               ],
               "type": "xhttp",
               "updated": "08-07-2026 06:00:02",
               "uuids": [
-                "e3093cd6-703c-46ec-a2ac-528588d5b71b",
-                "93f6a6f8-6ad6-480b-a011-319e0c2d6652",
-                "e425439d-8407-430d-be04-87da962890c3",
-                "300a72ab-4a11-4c37-b0ac-1910899385a7",
+                "19795bc6-5af9-4b8b-923c-e36d06de4ff6",
+                "819ea0b5-6eaa-498f-bac0-6ebb93d667a9",
+                "951442f1-2e64-40a0-b005-10690bb24550",
+                "b8207978-1589-4c55-8ece-a27776156b65",
+                "5038c01a-bb00-461f-8c1f-8a57fdae2de7",
+                "b74ba7a5-7a97-4c13-84b5-68bc3251a825",
                 "093ab660-edb5-45e4-9553-6fff1c09d0bc",
-                "035adb30-422d-4f05-b8b8-ead12b3d26a7",
-                "91b28468-e0b7-4ab8-ab13-38f94ac2b00a",
-                "3da94c4a-de6a-4239-8bde-a2632b28fff6",
-                "0c33817d-647d-4403-82a9-50cc00c59960",
-                "dca756db-e984-4e84-a856-ba902de40ff0"
+                "ccf6ae68-f6a2-4f39-a46b-229d64116c15",
+                "63e09b5e-a51b-4d59-9029-4105437edb3a",
+                "a7418072-b56b-466c-bf71-48e74ab408fb"
               ]
             }
           ],
@@ -909,17 +917,17 @@
           ],
           "snis": [
             "wildberries.ru",
-            "github.com",
-            "developer.apple.com",
-            "apple.com",
-            "max.ru"
+            "ozone.ru",
+            "max.ru",
+            "pingless.com",
+            "maple.mafoolehamammansouri.com"
           ],
           "spiderxs": [
-            "/docs/getting-started",
+            "/auth/login",
             "/products/list",
-            "/auth/refresh",
-            "/search?q=cloud",
-            "/help/faq"
+            "/search?q=ai",
+            "/search?q=latest",
+            "/auth/session"
           ],
           "updated": "08-07-2026 06:00:02",
           "version": "1.6"
@@ -943,30 +951,30 @@
               "public_key": "Tgiu4lDmmcpc2o-Bc_uxJfWhMPylAybS7CucXMCPjgM",
               "security": "reality",
               "short_ids": [
-                "ed48dff5cb0a18",
-                "39c8415b",
-                "43d9b0f711ddf6e5",
-                "7ecae9e407d3522c",
-                "9650899eb818",
+                "a39a977c26c9",
+                "8c0441a442",
                 "68154c3655f0bc1c",
-                "aed50a0d5a08",
-                "b6b98b8b84",
-                "40d6c1ed55",
-                "124ab03796"
+                "7ecae9e407d3522c",
+                "a1e9c2fc750e",
+                "43d9b0f711ddf6e5",
+                "bc873515",
+                "4bc5eb563dcc31",
+                "d4bfde49",
+                "eb5cbc770614"
               ],
               "type": "xhttp",
               "updated": "08-07-2026 06:00:11",
               "uuids": [
-                "5cf9a0e5-9c59-4282-b7b7-16133cc2599a",
-                "61550451-27ea-421e-9308-4ef4a08f4b13",
-                "9b9a787e-d30a-4ce2-85f9-08ec0c10c976",
-                "deb6b86e-6972-465e-a06a-62b8b6c116a2",
-                "ec7ea91e-72df-4841-a208-bb46975acc8c",
-                "d4bf6518-8242-41c3-9d88-47c4ba7bd788",
-                "5015b445-82ba-437a-98ac-ef8978502ee1",
+                "cb3438ae-ac58-4fb5-b091-9f2283685f6b",
+                "8fae1acc-feca-4f89-b2b7-e88e82c3a930",
+                "77892459-c59e-4033-a72a-57ac961c45cf",
+                "6cceb4aa-33dc-457a-811b-424427e4515d",
+                "e7c81190-693c-4e3f-bd4e-55b4a4f150e1",
+                "1bfe26db-41dc-43dc-aa5f-a6c8839a1d17",
                 "ffd84cb2-37d5-40ea-8b2c-b41541b4ecb6",
-                "e13c810f-1a89-432e-b6e9-bdaabf3d92d2",
-                "359d1547-eb87-4763-8e18-0460d69a2332"
+                "6a9b13c7-243b-4210-8c5e-92862ed6ab13",
+                "9b9a787e-d30a-4ce2-85f9-08ec0c10c976",
+                "fa9df17d-04bb-42f6-a11c-07d0c6884aab"
               ]
             },
             {
@@ -976,30 +984,30 @@
               "public_key": "LO0UzV7jpcgVU5Fu2_mmhJoMd7eI23kRToSWVU1lZQ8",
               "security": "reality",
               "short_ids": [
+                "911ae5cfba49bda5",
                 "913dfa9643b96e2e",
                 "557f8c2e9675",
-                "443fa3e73e70b16d",
-                "c7b1d8b2",
-                "6be88e78f79b",
-                "7b3aeb0952",
-                "d3a4683a7eddde2c",
                 "eeb2b0096bf78059",
-                "1320d984204be8",
-                "26aa15de"
+                "d3a4683a7eddde2c",
+                "37980ed220",
+                "7b3aeb0952",
+                "dc2de51563",
+                "a95fdb34f91d7188",
+                "e5a5e6a437"
               ],
               "type": "xhttp",
               "updated": "08-07-2026 06:00:11",
               "uuids": [
-                "c62c8252-5e67-4d03-9f9f-50ba74d2d26d",
-                "681aa822-61e3-4594-8c04-2505cefb0be2",
-                "fdd3a9f3-293c-43e4-86d5-fb093f750fc9",
-                "0b5624e0-4600-4c9d-b488-cd15b20a64af",
-                "d85d35c3-06db-4f55-a55f-0d5cd214926c",
-                "bd2245d5-2515-4902-9468-5efe76ec28a5",
-                "c386cfc2-c313-45c7-bd07-cf3c34d36a09",
-                "478da992-9b72-4139-b960-539ae6c5729c",
-                "b8c4e305-1925-4ce1-8191-133a60653d82",
-                "e19bac64-b2e7-4620-ba6c-91db47704828"
+                "0ee79d23-685d-4efa-b0dc-291244007bce",
+                "e19bac64-b2e7-4620-ba6c-91db47704828",
+                "12d2aee8-bb33-484e-af11-5d1ad6484226",
+                "6ae4fec9-b500-4d9e-856b-7816ac5cab0d",
+                "08f4dc9b-724c-4fdd-981c-daf334d5b752",
+                "d78bc4fe-7991-4387-9e32-e443297dcfb3",
+                "feadce9a-1eb0-45fe-8f38-25abeb4d6aaa",
+                "6396f63b-dcff-42f9-9a31-71ade4a39f6c",
+                "ae01ca72-3b25-4e41-ab55-eeb18261e9ed",
+                "c62c8252-5e67-4d03-9f9f-50ba74d2d26d"
               ]
             }
           ],
@@ -1007,18 +1015,18 @@
             "45.131.215.13"
           ],
           "snis": [
-            "yahoo.com",
-            "sun6-21.userapi.com",
-            "github.com",
             "disk.yandex.ru",
-            "animego.me"
+            "max.ru",
+            "botapi.max.ru",
+            "cdn.jsdelivr.net",
+            "images.apple.com"
           ],
           "spiderxs": [
-            "/search?q=update",
-            "/auth/refresh",
-            "/search?q=latest",
+            "/search?q=software",
+            "/cdn/assets/main.css",
             "/search?q=cloud",
-            "/search?q=security"
+            "/products/mobile",
+            "/search?q=mobile"
           ],
           "updated": "08-07-2026 06:00:11",
           "version": "1.6"
@@ -1092,30 +1100,30 @@
               "public_key": "CaFGMhGwBlUoJJ6Zt_ptwhwC35YkVf77J_FTNR1YXxo",
               "security": "reality",
               "short_ids": [
-                "775e52e876451c",
-                "38454b16c223c6",
-                "5093ad209b",
-                "22eb2e422b8039e2",
-                "fba5bf8ca400",
-                "b2ac27680a",
-                "d5784b84",
-                "e5b4a1563b",
+                "43746da7c832957b",
                 "437a32c368",
-                "ecd42ac2"
+                "4178f119e710",
+                "3acfc39f0a51d613",
+                "533bef943432a2b6",
+                "8f70de18fbd7c6",
+                "46a11947526af0fd",
+                "775e52e876451c",
+                "e3b920827661bfe6",
+                "059dc28a8c2754"
               ],
               "type": "xhttp",
               "updated": "08-07-2026 06:00:11",
               "uuids": [
+                "a9a0fec5-4202-40da-8f22-3b746911336e",
+                "e2f2d45a-57fb-4d84-8d05-140c849b99c1",
+                "16af64ee-a8e0-4a55-a9d3-55a20746dcaf",
+                "04c275d8-2156-4a6c-9ba2-a590efd48825",
+                "fdd43980-a197-4edb-9e92-806c64dc32a3",
+                "b51413de-ec22-4120-8ad7-f34a6ef081de",
+                "e3c1fc06-b255-4bcb-8197-51070acc4632",
                 "c6b702d9-5f8a-46e4-aeef-b64675ba893a",
                 "2ae88a46-2d14-4ade-b9f4-d18cec4c4990",
-                "558a5796-db20-4643-95d5-9b67a18db10b",
-                "496e63b3-8773-4eac-82e6-97edada4ff71",
-                "6cfd59d3-58f6-4381-b83d-1f6d2e2423bf",
-                "1256a14b-7cf7-48d6-9474-35a6dd0a2827",
-                "8ae975d3-c418-4860-8b04-32d99ca58846",
-                "16af64ee-a8e0-4a55-a9d3-55a20746dcaf",
-                "b1327272-4f30-4816-8b7c-c5485308fdec",
-                "6fad2c47-e0f8-48a2-a373-73810f1808af"
+                "5c397369-0b21-4c50-acd8-e7a2ee4f7c64"
               ]
             },
             {
@@ -1125,30 +1133,30 @@
               "public_key": "4Xv_nqctNApYiDhOn4KrPrOlDLhnK2uM6Hbx7T1P8zM",
               "security": "reality",
               "short_ids": [
-                "10ea475d9c5664f8",
-                "3b54c84f",
-                "2e5cf2dc0a9e67",
-                "08fb6a9b",
+                "ff1f1f0a72cf71",
                 "a747f1916de5be",
-                "9b793984",
-                "b04090eb",
+                "1d9db20c684c00be",
+                "cb36de64de",
                 "9ea97187",
-                "94f3479d",
-                "193eefc8"
+                "2e5cf2dc0a9e67",
+                "56594c252d",
+                "9b793984",
+                "07935b683e",
+                "bf7eef1b5b"
               ],
               "type": "xhttp",
               "updated": "08-07-2026 06:00:11",
               "uuids": [
-                "dfac6859-9e19-4e8e-84a0-ec827c8c77c5",
-                "b8a2d2c4-9b23-4eb5-8d34-01623c46ad70",
-                "8b754040-cd1a-4c5b-ad79-419d80f81f8a",
-                "f2610ae0-aeb9-411d-9ff9-54bbb37f6cad",
                 "e1999994-8c4f-4c1f-8997-e053f783601b",
-                "05705fdf-8347-4bd3-9464-aa90217b37f5",
-                "6bed7082-2905-4506-8e73-e1c866239336",
+                "0a5ae5b3-61c9-40a6-bd46-7735e552d30b",
+                "8e032298-e55f-4aeb-a367-b7981a71915f",
+                "5ef2152b-25c8-43a5-b413-d216d77fabb6",
                 "b656f4fa-4d39-4bc9-869e-3996698fcbf1",
-                "32523819-9e01-417b-b9cb-6c19eaf655f6",
-                "48428240-1d91-42b1-a970-d0d2b9acdf41"
+                "9ee6e46c-5d44-43f4-985a-df2629aed715",
+                "2533813d-7576-4d84-a5a7-78aa412cf15c",
+                "8b3b1787-2e60-4cce-97a8-61b966376ecd",
+                "0dd949f5-ea5a-4b27-967e-afac64be879a",
+                "47858b47-41e5-4702-857a-be2089f3f66b"
               ]
             }
           ],
@@ -1156,18 +1164,18 @@
             "77.110.122.57"
           ],
           "snis": [
-            "download.max.ru",
-            "github.com",
-            "alfabank.ru",
-            "ozone.ru",
-            "disk.yandex.ru"
+            "img.yandex.ru",
+            "amd.com",
+            "api-maps.yandex.ru",
+            "animego.me",
+            "github.com"
           ],
           "spiderxs": [
-            "/search?q=latest",
-            "/api/v1/status",
-            "/search?q=mobile",
-            "/auth/login",
-            "/auth/signup"
+            "/products/list",
+            "/blog/security",
+            "/cdn/assets/main.css",
+            "/search?q=cloud",
+            "/help/faq"
           ],
           "updated": "08-07-2026 06:00:11",
           "version": "1.7"
