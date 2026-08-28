@@ -1,9 +1,9 @@
 {
   "code": "s***a",
-  "created": "28.08.2026 09:28:13",
-  "encrypted_data": "D/kmS+prAexiTRp/Xj/fVg==",
-  "salt": "GUt5NGvr1lL0holkRyNH8g==",
-  "iv": "c5yzAiDYR5F84sgqQTzEyA==",
+  "created": "28.08.2026 09:33:40",
+  "encrypted_data": "qvoITCQfSfwPKWOSrlF4zw==",
+  "salt": "5ghHTWvHGN9iSdZCedJ7Dg==",
+  "iv": "D8CwkySM71H3MCgPl9BvxA==",
   "algorithm": "AES-256-CBC",
   "kdf": "PBKDF2",
   "iterations": 100000,
