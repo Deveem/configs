@@ -1,0 +1,12 @@
+{
+  "code": "s***a",
+  "created": "28.08.2026 09:28:13",
+  "encrypted_data": "XBfDtqVNrg9ERE7YJhoOmw==",
+  "salt": "4gWnSxBZN4fkPJ7xWGXt7Q==",
+  "iv": "PVT390Ewrqbnrv7zIT6alQ==",
+  "algorithm": "AES-256-CBC",
+  "kdf": "PBKDF2",
+  "iterations": 100000,
+  "encrypted": true,
+  "size": "0.00mb"
+}
