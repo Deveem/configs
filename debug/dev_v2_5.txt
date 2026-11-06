@@ -1,0 +1,197 @@
+[
+  {
+    "id": "free-uk",
+    "configs": [
+      {
+        "ip": "67.159.56.229",
+        "name": "fdc-super-uk-01",
+        "type": "tls"
+      },
+      {
+        "ip": "198.16.105.59",
+        "name": "fdc-super-uk-02-3",
+        "type": "tls"
+      }
+    ],
+    "country": "UK",
+    "flag_url": "https://raw.githubusercontent.com/Deveem/deveem-assets/refs/heads/main/icons/flags/uk.png",
+    "for_image": null,
+    "order": 5,
+    "premium": false,
+    "published": true,
+    "title": "Великобритания",
+    "description": "🎉 Бесплатный"
+  },
+  {
+    "id": "free-vless",
+    "configs": [
+      {
+        "config": "vless://e4e2afbe-1a21-4ca2-a22f-b5417e825687@106.75.143.18:4022?security=reality&type=tcp&packetEncoding=xudp&sni=buylite.tv.apple.com&fp=chrome&sid=ace0f99d&pbk=2g8FZHxPWjphq568-OS8ypk7qb76HiMhWua0UAJfOl8#28-061126-0933",
+        "published": true
+      },
+      {
+        "config": "vless://36cf792c-f07d-4500-97ea-a395e5178deb@ru2.radiolumens.uk:9444?mode=auto&path=%2Fberu-uk&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=ru2.radiolumens.uk#37-061126-0933",
+        "published": true
+      },
+      {
+        "config": "vless://e3149c82-00f6-4227-b2c0-b78f1dd81279@fast.145779.xyz:2053?encryption=none&host=fast.145779.xyz&path=%2Fws-tesla&security=tls&sni=fast.145779.xyz&type=ws&fp=safari#85-061126-0933",
+        "published": true
+      },
+      {
+        "config": "vless://f27b6f65-6e59-4f89-b929-afa397ca587f@104.18.51.110:443?headerType=none&host=n.bitpulse.me&path=%2F019bcbad-3813-7cce-8786-3ac0e418f128&security=tls&sni=n.bitpulse.me&type=ws&fp=ios#7-061126-0933",
+        "published": true
+      },
+      {
+        "config": "vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%25252F1.1&fp=edge#292-061126-0933",
+        "published": true
+      },
+      {
+        "config": "vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@27.50.48.13:443?type=ws&security=tls&host=vless2-8vx.pages.dev&fp=qq#102-061126-0933",
+        "published": true
+      },
+      {
+        "config": "vless://2f6c70f3-206a-4bc1-ac1f-6b70153f9c73@connect2.accessgate.link:2086?flow=xtls-rprx-vision&host=unpkg.com&insecure=1&pbk=CQBmePak1QN5SsSmK_KTOSLjsCTaiaM4Jtxt7jLheko&security=reality&sid=b0d8c9a285c70f6f&sni=unpkg.com&type=tcp&fp=chrome#257-061126-0933",
+        "published": true
+      },
+      {
+        "config": "vless://47525ee4-b128-444a-bcc6-95917b5e2053@cdn.crackerbinam.org:2083?alpn=http%2F1.1&encryption=none&host=cdn.crackerbinam.org&insecure=0&path=%2Fconnect-a7b2&security=tls&sni=cdn.crackerbinam.org&type=ws&fp=ios#62-061126-0933",
+        "published": true
+      },
+      {
+        "config": "vless://d37a75db-76b6-4db8-b213-0d5b044d138d@www.speedtest.net:443?security=tls&type=ws&path=%2F&host=top-e4s.pages.dev&packetEncoding=xudp&sni=top-e4s.pages.dev&fp=chrome&encryption=none#112-061126-0933",
+        "published": true
+      },
+      {
+        "config": "vless://e3149c82-00f6-4227-b2c0-b78f1dd81279@fast.145779.xyz:2053?encryption=none&host=fast.145779.xyz&path=%2Fws-tesla&security=tls&sni=fast.145779.xyz&type=ws&fp=firefox#84-061126-0933",
+        "published": true
+      },
+      {
+        "config": "vless://36cf792c-f07d-4500-97ea-a395e5178deb@ru2.radiolumens.uk:9444?type=xhttp&security=tls&sni=ru2.radiolumens.uk&path=%2Fberu-uk&mode=auto&fp=firefox#46-061126-0933",
+        "published": true
+      },
+      {
+        "config": "vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%2525252F1.1&fp=edge#289-061126-0933",
+        "published": true
+      }
+    ],
+    "country": "PL",
+    "flag_url": "https://raw.githubusercontent.com/Deveem/deveem-assets/refs/heads/main/icons/flags/poland.png",
+    "order": 10,
+    "premium": false,
+    "published": true,
+    "title": "Польша",
+    "description": "🎉 Бесплатный · vless"
+  },
+  {
+    "id": "free-vless-2",
+    "configs": [
+      {
+        "config": "vless://c83f15bf-1817-4ec8-a19f-6393d226434c@fast.145779.xyz:2053?security=tls&type=ws&path=%2Fws-tesla&sni=fast.145779.xyz&fp=chrome#72-061126-0933",
+        "published": true
+      },
+      {
+        "config": "vless://f27b6f65-6e59-4f89-b929-afa397ca587f@104.18.51.110:443?path=%2F019bcbad-3813-7cce-8786-3ac0e418f128&security=tls&host=n.bitpulse.me&type=ws&sni=n.bitpulse.me&fp=android#10-061126-0933",
+        "published": true
+      },
+      {
+        "config": "vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@129.101.100.126:8443?type=ws&security=tls&sni=lte-v2-ws.gacvpn.site&path=%2Fstatic%2Fjs%2Fruntime.9d03c7.js&encryption=none&fp=safari#306-061126-0933",
+        "published": true
+      },
+      {
+        "config": "vless://f27b6f65-6e59-4f89-b929-afa397ca587f@104.19.235.15:443?headerType=none&host=n.bitpulse.me&path=%2F019bcbad-3813-7cce-8786-3ac0e418f128&security=tls&sni=n.bitpulse.me&type=ws&fp=ios#13-061126-0933",
+        "published": true
+      },
+      {
+        "config": "vless://85550ebf-fd43-42dd-9801-bda528fea2fc@www.speedtest.net:443?host=wallweb5.pages.dev&path=%2F&security=tls&sni=wallweb5.pages.dev&type=ws#113-061126-0933",
+        "published": true
+      },
+      {
+        "config": "vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%2525252F1.1&fp=qq#290-061126-0933",
+        "published": true
+      },
+      {
+        "config": "vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%2525252525252F1.1&fp=android#280-061126-0933",
+        "published": true
+      },
+      {
+        "config": "vless://255a8044-3337-473e-af26-46a37208adcc@95.213.245.84:443?encryption=none&flow=xtls-rprx-vision&pbk=qqvs2x0N1F5WgXvC7PB9wmO5RxcVgCHS1hYHYOxdBk4&security=reality&sid=5f3fd060c992bb2e&sni=hudson.glowbreeze.online&type=tcp&fp=ios#333-061126-0933",
+        "published": true
+      },
+      {
+        "config": "vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%2525252F1.1&fp=android#288-061126-0933",
+        "published": true
+      },
+      {
+        "config": "vless://40a86b1b-239d-455e-b53f-4c270788ba6e@178.214.109.1:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=promo-digital.wb.ru&fp=edge&pbk=3p6W4rMBh1HCwbjq4lcbWO0KjkqTshJU5lkTix5nwTc&sid=1cfa55abe4d2dc7a&spx=%2F&type=tcp#135-061126-0933",
+        "published": true
+      },
+      {
+        "config": "vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?alpn=h2&encryption=none&extra=null&mode=packet-up&path=%2Fapi%2Fv2%2Fevents&security=tls&sni=static.bakarova-top.ru&type=xhttp&fp=chrome#341-061126-0933",
+        "published": true
+      },
+      {
+        "config": "vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@lte-v2-ws.gacvpn.site:8443?security=tls&type=ws&sni=lte-v2-ws.gacvpn.site&path=%2Fstatic%2Fjs%2Fruntime.9d03c7.js&host=lte-v2-ws.gacvpn.site&fp=qq#309-061126-0933",
+        "published": true
+      },
+      {
+        "config": "vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?path=%2Fblog%2Fposts&security=tls&sni=lorettmay.top&type=ws&fp=firefox#276-061126-0933",
+        "published": true
+      }
+    ],
+    "country": "CZ",
+    "flag_url": "https://raw.githubusercontent.com/Deveem/deveem-assets/refs/heads/main/icons/flags/czech_republic.png",
+    "order": 11,
+    "premium": false,
+    "published": true,
+    "title": "Чехия",
+    "description": "🎉 Бесплатный · vless"
+  },
+  {
+    "id": "free-vless-white",
+    "configs": [
+      {
+        "config": "vless://7c03538c-c6dd-4dc1-b35c-5fc0e2a43271@157.22.190.220:2053?security=tls&sni=666-7sf.pages.dev&type=ws&path=%2F&host=666-7sf.pages.dev&fp=ios#78-061126-0933",
+        "published": true
+      },
+      {
+        "config": "vless://255a8044-3337-473e-af26-46a37208adcc@95.213.245.84:443?encryption=none&flow=xtls-rprx-vision&pbk=qqvs2x0N1F5WgXvC7PB9wmO5RxcVgCHS1hYHYOxdBk4&security=reality&sid=5f3fd060c992bb2e&sni=hudson.glowbreeze.online&type=tcp&fp=chrome#69-061126-0933",
+        "published": true
+      },
+      {
+        "config": "vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?encryption=none&extra=null&host=api.bakarova-top.ru&mode=packet-up&path=%2Fapi%2Fv2%2Fevents&security=tls&sni=api.bakarova-top.ru&type=xhttp&fp=safari#80-061126-0933",
+        "published": true
+      },
+      {
+        "config": "vless://73a0f995-f2f1-4d47-a99d-a6dcc1952bf9@telemetry.gitpacket.pro:443?alpn=http%2F1.1&encryption=none&path=%2Fapi%2Fv2%2Fquery%2Fzpxgr1pf%2F&security=tls&sni=telemetry.gitpacket.pro&type=ws&fp=chrome#5-061126-0933",
+        "published": true
+      },
+      {
+        "config": "vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%25252525252F1.1&fp=safari#18-061126-0933",
+        "published": true
+      },
+      {
+        "config": "vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@lte-v2-ws.gacvpn.site:8443?security=tls&sni=lte-v2-ws.gacvpn.site&type=ws&headerType=none&host=lte-v2-ws.gacvpn.site&path=%2Fstatic%2Fjs%2Fruntime.9d03c7.js&fp=firefox#39-061126-0933",
+        "published": true
+      },
+      {
+        "config": "vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?encryption=none&extra=null&mode=packet-up&path=%2Fapi%2Fv2%2Fevents&security=tls&sni=static.bakarova-top.ru&type=xhttp&fp=ios#45-061126-0933",
+        "published": true
+      },
+      {
+        "config": "vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?path=%2Fblog%2Fposts&security=tls&sni=lorettmay.top&type=ws&fp=chrome#11-061126-0933",
+        "published": true
+      },
+      {
+        "config": "vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%25252F1.1&fp=ios#27-061126-0933",
+        "published": true
+      }
+    ],
+    "country": "RU",
+    "flag_url": "https://raw.githubusercontent.com/Deveem/deveem-assets/refs/heads/main/icons/flags/russia.png",
+    "order": 15,
+    "premium": false,
+    "published": true,
+    "title": "Белые Списки",
+    "description": "🎉 Бесплатный · vless"
+  }
+]
