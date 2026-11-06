@@ -21,55 +21,51 @@
     "id": "free-vless",
     "configs": [
       {
-        "config": "vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?type=xhttp&security=tls&encryption=none&path=%2Fapi%2Fv2%2Fevents&host=api.bakarova-top.ru&sni=api.bakarova-top.ru&headerType=none&mode=packet-up&fp=safari#321-061126-0936",
+        "config": "vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%2525252F1.1&fp=edge#294-061126-0942",
         "published": true
       },
       {
-        "config": "vless://57e089a8-0cd1-48d0-b572-105c4804f6b8@www.agahiya.ir:443?path=/jx-y8179aild6rsmj&security=tls&encryption=none&insecure=0&host=soliconf-gghosin4-cell.dormhost.app&type=ws&allowInsecure=0#139-061126-0936",
+        "config": "vless://e3149c82-00f6-4227-b2c0-b78f1dd81279@172.67.199.126:2053?security=tls&sni=fast.145779.xyz&type=ws&host=fast.145779.xyz&path=%2Fws-tesla&fp=chrome#110-061126-0942",
         "published": true
       },
       {
-        "config": "vless://e3149c82-00f6-4227-b2c0-b78f1dd81279@172.67.199.126:2053?type=ws&path=%252Fws-tesla&host=fast.145779.xyz&security=tls&sni=fast.145779.xyz&fp=chrome#112-061126-0936",
+        "config": "vless://47525ee4-b128-444a-bcc6-95917b5e2053@cdn.crackerbinam.org:2083?path=%2Fconnect-a7b2&security=tls&sni=cdn.crackerbinam.org&type=ws&fp=ios#85-061126-0942",
         "published": true
       },
       {
-        "config": "vless://47525ee4-b128-444a-bcc6-95917b5e2053@cdn.crackerbinam.org:2083?path=%2Fconnect-a7b2&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=cdn.crackerbinam.org&fp=chrome&type=ws&allowInsecure=0&sni=cdn.crackerbinam.org#83-061126-0936",
+        "config": "vless://fc7d2cfe-f5ef-40c8-a848-a0bdc11f6349@104.17.11.191:443?encryption=none&security=tls&sni=vpn.cintaku.qzz.io&type=ws&host=vpn.cintaku.qzz.io&path=%2Fvlessws#33-061126-0942",
         "published": true
       },
       {
-        "config": "vless://fc7d2cfe-f5ef-40c8-a848-a0bdc11f6349@104.17.108.213:443?type=ws&path=%252Fvlessws&host=vpn.cintaku.qzz.io&security=tls&sni=vpn.cintaku.qzz.io&fp=chrome#32-061126-0936",
+        "config": "vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@lte-v2-ws.gacvpn.site:8443?type=ws&security=tls&sni=lte-v2-ws.gacvpn.site&path=%2Fstatic%2Fjs%2Fruntime.9d03c7.js&encryption=none&fp=safari#142-061126-0942",
         "published": true
       },
       {
-        "config": "vless://e3149c82-00f6-4227-b2c0-b78f1dd81279@fast.145779.xyz:2053?host=fast.145779.xyz&path=%2Fws-tesla&security=tls&sni=fast.145779.xyz&type=ws#116-061126-0936",
+        "config": "vless://fc7d2cfe-f5ef-40c8-a848-a0bdc11f6349@104.21.91.49:443?path=%2Fvlessws&security=tls&encryption=none&insecure=0&host=vpn.cintaku.qzz.io&type=ws&allowInsecure=0&sni=vpn.cintaku.qzz.io#37-061126-0942",
         "published": true
       },
       {
-        "config": "vless://f67f1548-c958-45e4-a7f4-194b90ccd99f@46.8.19.126:443?encryption=none&mode=auto&path=%2Fvless-xhttp&pbk=pjRu70aycBq_sodRHf_BDYUXVjmi0wofQNQXTTXQfDU&security=reality&sid=cb1733a12d48629b&sni=ads.x5.ru&type=xhttp&fp=edge#274-061126-0936",
+        "config": "vless://e3149c82-00f6-4227-b2c0-b78f1dd81279@104.21.58.37:2053?security=tls&sni=fast.145779.xyz&type=ws&host=fast.145779.xyz&path=%2Fws-tesla&fp=chrome&alpn=http%2F1.1#105-061126-0942",
         "published": true
       },
       {
-        "config": "vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?path=%2Fblog%2Fposts&security=tls&sni=lorettmay.top&type=ws&fp=firefox#279-061126-0936",
+        "config": "vless://255a8044-3337-473e-af26-46a37208adcc@95.213.245.84:443?encryption=none&flow=xtls-rprx-vision&pbk=qqvs2x0N1F5WgXvC7PB9wmO5RxcVgCHS1hYHYOxdBk4&security=reality&sid=5f3fd060c992bb2e&sni=hudson.glowbreeze.online&type=tcp&fp=safari#339-061126-0942",
         "published": true
       },
       {
-        "config": "vless://5bb1fda3-0b8a-41d5-a803-b48e180ad718@cdn.kavosiprotocol.shop:443?encryption=none&security=tls&sni=cdn.kavosiprotocol.shop&fp=chrome&alpn=http/1.1&type=ws&host=cdn.kavosiprotocol.shop&path=/@KVPROTOCOlVPN--@KVPROTOCOlVPN--@KVPROTOCOlVPN--@KVPROTOCOlVPN--ws/s_48738e13cc#4-061126-0936",
+        "config": "vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@129.101.100.126:8443?type=ws&security=tls&sni=lte-v2-ws.gacvpn.site&path=%2Fstatic%2Fjs%2Fruntime.9d03c7.js&encryption=none&fp=firefox#310-061126-0942",
         "published": true
       },
       {
-        "config": "vless://f27b6f65-6e59-4f89-b929-afa397ca587f@104.18.51.110:443?headerType=none&host=n.bitpulse.me&path=%2F019bcbad-3813-7cce-8786-3ac0e418f128&security=tls&sni=n.bitpulse.me&type=ws&fp=ios#6-061126-0936",
+        "config": "vless://c83f15bf-1817-4ec8-a19f-6393d226434c@172.67.199.126:2053?type=ws&path=%252Fws-tesla&host=fast.145779.xyz&security=tls&sni=fast.145779.xyz&fp=chrome#93-061126-0942",
         "published": true
       },
       {
-        "config": "vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%25252525252F1.1&fp=qq#286-061126-0936",
+        "config": "vless://fc7d2cfe-f5ef-40c8-a848-a0bdc11f6349@104.17.108.213:443?encryption=none&security=tls&sni=vpn.cintaku.qzz.io&type=ws&host=vpn.cintaku.qzz.io&path=%2Fvlessws#26-061126-0942",
         "published": true
       },
       {
-        "config": "vless://0d5a2112-789f-4755-88e6-61a1a8f8067b@14f7f5f0.mrbl69black.pages.dev:443?type=ws&security=tls&path=/I0IHonn0TGa2xaOO?ed=2560&sni=14F7F5f0.mRBL69BlaCK.paGES.DeV&fp=chrome#147-061126-0936",
-        "published": true
-      },
-      {
-        "config": "vless://c83f15bf-1817-4ec8-a19f-6393d226434c@fast.145779.xyz:2053?type=ws&path=%252Fws-tesla&host=&security=tls&sni=fast.145779.xyz&fp=firefox#101-061126-0936",
+        "config": "vless://f27b6f65-6e59-4f89-b929-afa397ca587f@104.18.51.110:443?headerType=none&host=n.bitpulse.me&path=%2F019bcbad-3813-7cce-8786-3ac0e418f128&security=tls&sni=n.bitpulse.me&type=ws&fp=ios#6-061126-0942",
         "published": true
       }
     ],
@@ -85,55 +81,51 @@
     "id": "free-vless-2",
     "configs": [
       {
-        "config": "vless://2f6c70f3-206a-4bc1-ac1f-6b70153f9c73@connect2.accessgate.link:2086?security=reality&type=tcp&sni=unpkg.com&host=unpkg.com&flow=xtls-rprx-vision&pbk=CQBmePak1QN5SsSmK_KTOSLjsCTaiaM4Jtxt7jLheko&sid=b0d8c9a285c70f6f&allowInsecure=1&fp=safari#262-061126-0936",
+        "config": "vless://c83f15bf-1817-4ec8-a19f-6393d226434c@fast.145779.xyz:2053?encryption=none&path=%2Fws-tesla&security=tls&sni=fast.145779.xyz&type=ws&fp=ios#151-061126-0942",
         "published": true
       },
       {
-        "config": "vless://fc7d2cfe-f5ef-40c8-a848-a0bdc11f6349@vpn.cintaku.qzz.io:443?&security=tls&fp=chrome&sni=vpn.cintaku.qzz.io&type=ws&headerType=none&host=vpn.cintaku.qzz.io&path=%2Fvlessws#47-061126-0936",
+        "config": "vless://e3149c82-00f6-4227-b2c0-b78f1dd81279@172.67.199.126:2053?security=tls&sni=fast.145779.xyz&type=ws&host=fast.145779.xyz&path=%2Fws-tesla&fp=chrome&alpn=http%2F1.1#1-061126-0942",
         "published": true
       },
       {
-        "config": "vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%252525252F1.1&fp=firefox#288-061126-0936",
+        "config": "vless://c83f15bf-1817-4ec8-a19f-6393d226434c@fast.145779.xyz:2053?encryption=none&path=%2Fws-tesla&security=tls&sni=fast.145779.xyz&type=ws&fp=ios#95-061126-0942",
         "published": true
       },
       {
-        "config": "vless://47525ee4-b128-444a-bcc6-95917b5e2053@cdn.crackerbinam.org:2083?path=%2Fconnect-a7b2&security=tls&sni=cdn.crackerbinam.org&type=ws&fp=firefox#84-061126-0936",
+        "config": "vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%2525252F1.1&fp=qq#295-061126-0942",
         "published": true
       },
       {
-        "config": "vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?type=xhttp&security=tls&encryption=none&path=%2Fapi%2Fv2%2Fevents&host=static.bakarova-top.ru&sni=static.bakarova-top.ru&headerType=none&mode=packet-up&fp=chrome#326-061126-0936",
+        "config": "vless://fc7d2cfe-f5ef-40c8-a848-a0bdc11f6349@8.35.211.242:443?encryption=none&host=vpn.cintaku.qzz.io&path=%2Fvlessws&security=tls&sni=vpn.cintaku.qzz.io&type=ws&fp=safari#43-061126-0942",
         "published": true
       },
       {
-        "config": "vless://fc7d2cfe-f5ef-40c8-a848-a0bdc11f6349@104.17.11.191:443?type=ws&path=%252Fvlessws&host=vpn.cintaku.qzz.io&security=tls&sni=vpn.cintaku.qzz.io&fp=chrome#34-061126-0936",
+        "config": "vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%252F1.1&fp=android#299-061126-0942",
         "published": true
       },
       {
-        "config": "vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%252525252F1.1&fp=safari#290-061126-0936",
+        "config": "vless://85550ebf-fd43-42dd-9801-bda528fea2fc@www.speedtest.net:443?host=wallweb5.pages.dev&path=%2F&security=tls&sni=wallweb5.pages.dev&type=ws#127-061126-0942",
         "published": true
       },
       {
-        "config": "vless://fc7d2cfe-f5ef-40c8-a848-a0bdc11f6349@104.17.11.191:443?encryption=none&security=tls&sni=vpn.cintaku.qzz.io&type=ws&host=vpn.cintaku.qzz.io&path=%2Fvlessws#33-061126-0936",
+        "config": "vless://f27b6f65-6e59-4f89-b929-afa397ca587f@104.19.235.15:443?encryption=none&security=tls&sni=n.bitpulse.me&alpn=http%2F1.1&type=ws&host=n.bitpulse.me&path=%2F019bcbad-3813-7cce-8786-3ac0e418f128#135-061126-0942",
         "published": true
       },
       {
-        "config": "vless://e267bd26-3816-002e-990f-8d6ec83bd25b@136.234.9.92:443?encryption=none&security=reality&type=xhttp&sni=git.medrocket.ru&pbk=YHPoUNxsml4z6pYt-7djOb1lqnBjxCk4-2mk84pveyc&sid=3b5b38669a1a51c0&spx=%2F&path=%2Frepository&mode=packet-up&extra=%7B%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22maxConnections%22%3A2%7D%7D&fp=ios#349-061126-0936",
+        "config": "vless://f67f1548-c958-45e4-a7f4-194b90ccd99f@46.8.19.126:443?encryption=none&mode=auto&path=%2Fvless-xhttp&pbk=pjRu70aycBq_sodRHf_BDYUXVjmi0wofQNQXTTXQfDU&security=reality&sid=cb1733a12d48629b&sni=ads.x5.ru&type=xhttp&fp=chrome#274-061126-0942",
         "published": true
       },
       {
-        "config": "vless://255a8044-3337-473e-af26-46a37208adcc@95.213.245.84:443?encryption=none&flow=xtls-rprx-vision&pbk=qqvs2x0N1F5WgXvC7PB9wmO5RxcVgCHS1hYHYOxdBk4&security=reality&sid=5f3fd060c992bb2e&sni=hudson.glowbreeze.online&type=tcp&fp=safari#74-061126-0936",
+        "config": "vless://e3149c82-00f6-4227-b2c0-b78f1dd81279@fast.145779.xyz:2053?encryption=none&host=fast.145779.xyz&path=%2Fws-tesla&security=tls&sni=fast.145779.xyz&type=ws&fp=firefox#113-061126-0942",
         "published": true
       },
       {
-        "config": "vless://30610baf-4645-4c7b-9a22-0d0a0a79eab5@mao.kipfelmao.de5.net:443?security=tls&type=ws&path=%2Fapi%2Fv1%2Fguests%2Fprofiles%2F5de14443985f%2F&host=mao.kipfelmao.de5.net&packetEncoding=xudp&sni=mao.kipfelmao.de5.net&fp=chrome&encryption=none#69-061126-0936",
+        "config": "vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@lte-v2-ws.gacvpn.site:8443?type=ws&security=tls&sni=lte-v2-ws.gacvpn.site&path=%2Fstatic%2Fjs%2Fruntime.9d03c7.js&encryption=none&fp=safari#51-061126-0942",
         "published": true
       },
       {
-        "config": "vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?type=xhttp&security=tls&encryption=none&path=%2Fapi%2Fv2%2Fevents&host=static.bakarova-top.ru&sni=static.bakarova-top.ru&alpn=h2&headerType=none&fp=qq#325-061126-0936",
-        "published": true
-      },
-      {
-        "config": "vless://f27b6f65-6e59-4f89-b929-afa397ca587f@104.19.235.15:443?security=tls&type=ws&path=%2F019bcbad-3813-7cce-8786-3ac0e418f128&host=n.bitpulse.me&packetEncoding=xudp&alpn=http%2F1.1&sni=n.bitpulse.me&fp=chrome#15-061126-0936",
+        "config": "vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?type=xhttp&security=tls&encryption=none&path=%2Fapi%2Fv2%2Fevents&host=static.bakarova-top.ru&sni=static.bakarova-top.ru&alpn=h2&headerType=none&fp=chrome#324-061126-0942",
         "published": true
       }
     ],
@@ -149,39 +141,39 @@
     "id": "free-vless-white",
     "configs": [
       {
-        "config": "vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?encryption=none&mode=auto&path=%2Fapi%2Fv2%2Fevents&security=tls&sni=static.bakarova-top.ru&type=xhttp&fp=firefox#86-061126-0936",
+        "config": "vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?type=xhttp&security=tls&encryption=none&path=%2Fapi%2Fv2%2Fevents&sni=static.bakarova-top.ru&headerType=none&mode=packet-up&fp=qq#10-061126-0942",
         "published": true
       },
       {
-        "config": "vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?encryption=none&mode=auto&path=%2Fapi%2Fv2%2Fevents&security=tls&sni=static.bakarova-top.ru&type=xhttp&fp=qq#87-061126-0936",
+        "config": "vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%2525252F1.1&fp=qq#34-061126-0942",
         "published": true
       },
       {
-        "config": "vless://255a8044-3337-473e-af26-46a37208adcc@hudson.glowbreeze.online:443?encryption=none&flow=xtls-rprx-vision&pbk=qqvs2x0N1F5WgXvC7PB9wmO5RxcVgCHS1hYHYOxdBk4&security=reality&sid=5f3fd060c992bb2e&sni=hudson.glowbreeze.online&type=tcp&fp=safari#81-061126-0936",
+        "config": "vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?alpn=h2&encryption=none&extra=null&host=static.bakarova-top.ru&path=%2Fapi%2Fv2%2Fevents&security=tls&sni=static.bakarova-top.ru&type=xhttp&fp=chrome#60-061126-0942",
         "published": true
       },
       {
-        "config": "vless://2f6c70f3-206a-4bc1-ac1f-6b70153f9c73@connect2.accessgate.link:2086?security=reality&type=tcp&sni=unpkg.com&host=unpkg.com&flow=xtls-rprx-vision&pbk=CQBmePak1QN5SsSmK_KTOSLjsCTaiaM4Jtxt7jLheko&sid=b0d8c9a285c70f6f&allowInsecure=1&fp=random#2-061126-0936",
+        "config": "vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?alpn=h2&encryption=none&extra=null&host=static.bakarova-top.ru&path=%2Fapi%2Fv2%2Fevents&security=tls&sni=static.bakarova-top.ru&type=xhttp&fp=ios#62-061126-0942",
         "published": true
       },
       {
-        "config": "vless://255a8044-3337-473e-af26-46a37208adcc@hudson.glowbreeze.online:443?encryption=none&flow=xtls-rprx-vision&pbk=qqvs2x0N1F5WgXvC7PB9wmO5RxcVgCHS1hYHYOxdBk4&security=reality&sid=5f3fd060c992bb2e&sni=hudson.glowbreeze.online&type=tcp&fp=firefox#84-061126-0936",
+        "config": "vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?type=xhttp&security=tls&encryption=none&path=%2Fapi%2Fv2%2Fevents&sni=static.bakarova-top.ru&headerType=none&mode=packet-up&fp=firefox#8-061126-0942",
         "published": true
       },
       {
-        "config": "vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@lte-v2-ws.gacvpn.site:8443?security=tls&sni=lte-v2-ws.gacvpn.site&type=ws&headerType=none&host=lte-v2-ws.gacvpn.site&path=%2Fstatic%2Fjs%2Fruntime.9d03c7.js&fp=qq#50-061126-0936",
+        "config": "vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%252525252525252F1.1&fp=firefox#23-061126-0942",
         "published": true
       },
       {
-        "config": "vless://f67f1548-c958-45e4-a7f4-194b90ccd99f@46.8.19.126:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ads.x5.ru&pbk=pjRu70aycBq_sodRHf_BDYUXVjmi0wofQNQXTTXQfDU&sid=cb1733a12d48629b&fp=edge#16-061126-0936",
+        "config": "vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?type=xhttp&security=tls&encryption=none&path=%2Fapi%2Fv2%2Fevents&sni=static.bakarova-top.ru&headerType=none&mode=packet-up&fp=chrome#6-061126-0942",
         "published": true
       },
       {
-        "config": "vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@129.101.100.126:8443?type=ws&security=tls&sni=lte-v2-ws.gacvpn.site&path=%2Fstatic%2Fjs%2Fruntime.9d03c7.js&encryption=none&fp=firefox#51-061126-0936",
+        "config": "vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%252525252525252F1.1&fp=android#22-061126-0942",
         "published": true
       },
       {
-        "config": "vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%25252F1.1&fp=ios#37-061126-0936",
+        "config": "vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?security=tls&type=ws&sni=lorettmay.top&path=%2Fblog%2Fposts&alpn=http%252F1.1&fp=android#38-061126-0942",
         "published": true
       }
     ],
